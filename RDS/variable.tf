@@ -1,0 +1,11 @@
+variable "db_name" {}
+variable "db_username" {}
+variable "db_password" {}
+variable "db_instance_class" {}
+variable "allocated_storage" {}
+variable "engine" {}
+variable "engine_version" {}
+variable "identifier" {}
+variable "publicly_accessible" {}
+variable "vpc_security_group_ids" {}
+variable "db_subnet_group_name" {}
